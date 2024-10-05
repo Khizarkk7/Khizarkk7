@@ -1,4 +1,10 @@
-<h1 align="left">Khizar Saqib</h1>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1 style="margin: 0;">Khizar Saqib</h1>
+  <div>
+    <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?" alt="profile counter" />
+  </div>
+</div>
+
 
 ###
 
