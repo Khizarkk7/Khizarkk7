@@ -39,17 +39,15 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Techs">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Techs&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="left">
+  <h1>About</h1><br>
+  I am a passionate Computer Science student at DSU, constantly striving to push technological boundaries. As the Event Management Lead at GDG DSU, I actively contribute to the tech community. My technical expertise spans HTML, CSS, .NET, Angular, and SQL Server, and I am particularly excited about advancements in AI.<br><br>
+  In addition to my work in tech, I am also a poet, currently writing my book titled “Kulyat e Ahmed.” Outside of academics and technology, I love exploring Pakistan’s diverse landscapes as an enthusiastic traveler. I am also proud to be part of an organization that provides support and hope to individuals facing societal challenges, offering assistance to those in need.<br><br>
+  Currently, I’m a Software Intern at Tech Resources, where I am honing my skills as a full-stack developer with a strong focus on .NET and Angular.
+</p>
+
 
 ###
-
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47bibrghdok5usgr3o75qxyzc891tl7csviwu2cvjf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
 
