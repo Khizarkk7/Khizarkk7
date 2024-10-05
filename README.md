@@ -5,9 +5,6 @@
 <p align="left">My name is Khizar and I'm a Software Engineer from Pakistan</p>
 
 ###
-
-<p align="left">📚 I'm currently mastering my programming skills ...<br>🎯 Goals: Achieving excellence through continuous improvement and hard work ...<br>🎲 Fun fact: I love diving deep into complex algorithms and finding elegant solutions ...</p>
-
 ###
 
 <h2 align="left">I code with passion and dedication.</h2>
