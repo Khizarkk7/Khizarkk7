@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Khizar  and I'm a Software Engineer from Pakistan</p>
+<p align="left">My name is Khizar and I'm a Software Engineer from Pakistan</p>
 
 ###
 
@@ -31,8 +31,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Khizarkk7/Khizarkk7/output/snake.svg" alt="Snake animation" />
 
 ###
 
