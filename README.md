@@ -34,9 +34,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?"  />
+<div style="display: flex; flex-direction: column; align-items: center; padding: 20px; border: 2px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 300px; margin: 0 auto;">
+  <h2 style="margin-bottom: 10px; color: #333;">Profile Views</h2>
+  <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?" alt="profile counter" style="margin-bottom: 10px;" />
 </div>
+
 
 ###
 
