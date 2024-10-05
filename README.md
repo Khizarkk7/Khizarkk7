@@ -35,8 +35,9 @@
 ###
 
  <div align="center">
-  <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?"/>
 </div>
+
 ###
 
 <p align="left">
