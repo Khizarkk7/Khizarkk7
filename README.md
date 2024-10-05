@@ -1,9 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1 style="margin: 0;">Khizar Saqib</h1>
-  <div>
-    <img src="https://profile-counter.glitch.me/Khizarkk7/count.svg?" alt="profile counter" />
-  </div>
-</div>
+<h1 align="left">Khizar Saqib</h1>
 
 
 ###
@@ -13,7 +8,7 @@
 ###
 ###
 
-<h2 align="left">I code with passion and dedication.</h2>
+<h2 align="left">CS undergrad | Event Management Lead-GDSC @DSU | .Net & Angular </h2>
 
 ###
 <div align="left">
