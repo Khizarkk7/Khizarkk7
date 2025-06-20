@@ -8,7 +8,7 @@
 ###
 ###
 
-<h2 align="left">CS undergrad |Ex-Event Management Lead-GDSC @DSU | .Net & Angular </h2>
+<h2 align="left">CS undergrad | Ex-Event Management Lead-GDSC @DSU | .Net & Angular </h2>
 
 ###
 <div align="left">
