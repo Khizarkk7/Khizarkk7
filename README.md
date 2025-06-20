@@ -58,6 +58,8 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sheryar-bit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khizar-saqib-90439b247/" target="_blank">
