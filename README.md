@@ -1,14 +1,20 @@
-<h1 align="left">Khizar Saqib</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Khizar Saqib&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+</p>
+<p align="center">
+    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
 
-
-###
-
-<p align="left">My name is Khizar and I'm a Software Engineer from Pakistan</p>
-
-###
-###
-
-<h2 align="left">CS undergrad | Ex-Event Management Lead-GDSC @DSU | .Net & Angular </h2>
 
 ###
 <div align="left">
@@ -39,13 +45,6 @@
 </div>
 
 ###
-
-<p align="left">
-  <h1>About</h1><br>
-  I am a passionate Computer Science student at DSU, constantly striving to push technological boundaries. As the Event Management Lead at GDG DSU, I actively contribute to the tech community. My technical expertise spans HTML, CSS, .NET, Angular, and SQL Server, and I am particularly excited about advancements in AI.<br><br>
-  In addition to my work in tech, I am also a poet, currently writing my book titled “Kulyat e Ahmed.” Outside of academics and technology, I love exploring Pakistan’s diverse landscapes as an enthusiastic traveler. I am also proud to be part of an organization that provides support and hope to individuals facing societal challenges, offering assistance to those in need.<br><br>
-  Currently, I’m a Software Intern at Tech Resources, where I am honing my skills as a full-stack developer with a strong focus on .NET and Angular.
-</p>
 
 
 ###
